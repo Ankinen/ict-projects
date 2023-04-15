@@ -9,6 +9,10 @@ function MainContent() {
                 <p>
                     the content comes here
                 </p>
+                <h2>Merge requests</h2>
+                <p>
+                    the content comes here
+                </p>
             </div>
         </main>
     )
