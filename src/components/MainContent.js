@@ -2,9 +2,10 @@ function MainContent() {
     return (
         <main>
             <h1 className="title">
-                This is the title
+                DevOps
             </h1>
             <div className="main-text">
+                <h2>CI/CD</h2>
                 <p>
                     the content comes here
                 </p>
