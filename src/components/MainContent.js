@@ -15,7 +15,7 @@ function MainContent() {
                 </p>
                 <h2>New topic</h2>
                 <p>
-                    the content comes here. Here is some more text
+                    Third topic must be more exiting so that people want to continue this far
                 </p>
             </div>
         </main>
