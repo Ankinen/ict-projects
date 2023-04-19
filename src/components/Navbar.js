@@ -11,6 +11,7 @@ function Navbar() {
                 <a href="https://github.com/Ankinen/ict-projects" 
                     target="_blank"
                     className="link"
+                    rel="noreferrer"
                 >
                     GitHub Repo
                 </a>
