@@ -11,7 +11,11 @@ function MainContent() {
                 </p>
                 <h2>Merge requests</h2>
                 <p>
-                    the content comes here
+                    the content comes here. Here is some more text
+                </p>
+                <h2>New topic</h2>
+                <p>
+                    the content comes here. Here is some more text
                 </p>
             </div>
         </main>
